@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, the raccoon toilet is occupied 👋
 
 <!--
 **Edie-Z/Edie-Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
