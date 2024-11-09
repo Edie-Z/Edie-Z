@@ -21,7 +21,7 @@
 
   ### 🌱 Currently Learning
   - **Creative Coding**: Processing, TouchDesigner, Arduino IDE
-  - **Game Design**: Unity 3D, Unreal Engine (UE)
+  - **Game Design**: Unity 3D, Unreal Engine
 
   ### 🎨 Professional Design Background
   - **Tools**: Adobe Illustrator, Photoshop, Premiere, After Effects
