@@ -1,14 +1,7 @@
 <div align="left">
   
-  ### Hi there, the raccoon toilet is occupied 👋
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Edie-Z&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Edie-Z&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-
-  ### 📫 Contact Me
-  - **Email:** yidi.zhao@ue-germany.de
-  - **LinkedIn:** [Yidi Zhao on LinkedIn](https://www.linkedin.com/in/yidi-zhao-293b41315/)
-
+  ## Hi there, the raccoon toilet is occupied 👋
+  
   ### 🛠️ Tech Stack
   ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -36,5 +29,9 @@
   - **Tools**: Adobe Illustrator, Photoshop, Premiere, After Effects
   - **3D Modeling & Rendering**: SketchUp, Rhino, Cinema 4D, KeyShot
   - **CAD**: AutoCAD
+
+  ### 📫 Contact Me
+  - **Email:** yidi.zhao@ue-germany.de
+  - **LinkedIn:** [Yidi Zhao on LinkedIn](https://www.linkedin.com/in/yidi-zhao-293b41315/)
 
 </div>
