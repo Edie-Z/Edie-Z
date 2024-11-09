@@ -22,8 +22,6 @@
   ### 🌱 Currently Learning
   - **Creative Coding**: Processing, TouchDesigner, Arduino IDE
   - **Game Design**: Unity 3D, Unreal Engine (UE)
-  - **Cloud Computing**: AWS, Azure
-  - **Machine Learning** with TensorFlow & PyTorch
 
   ### 🎨 Professional Design Background
   - **Tools**: Adobe Illustrator, Photoshop, Premiere, After Effects
