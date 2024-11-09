@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
   ### Hi there, the raccoon toilet is occupied 👋
 
@@ -16,7 +16,6 @@
   ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
   ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![PgAdmin4](https://img.shields.io/badge/PgAdmin4-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
   ![IBM SPSS](https://img.shields.io/badge/IBM_SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
   ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
@@ -26,7 +25,6 @@
   ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
   ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=for-the-badge&logo=delphi&logoColor=white)
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Git Bash](https://img.shields.io/badge/Git_Bash-4EAA25?style=for-the-badge&logo=git&logoColor=white)
@@ -41,8 +39,5 @@
   - **Tools**: Adobe Illustrator, Photoshop, Premiere, After Effects
   - **3D Modeling & Rendering**: SketchUp, Rhino, Cinema 4D, KeyShot
   - **CAD**: AutoCAD
-
-  ### 👥 Visitor Count
-  ![Visitor Count](https://komarev.com/ghpvc/?username=Edie-Z&style=flat-square&color=blue)
 
 </div>
